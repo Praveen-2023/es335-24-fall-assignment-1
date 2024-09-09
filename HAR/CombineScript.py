@@ -16,6 +16,7 @@ import os
 # Give the path of the test and train folder of UCI HAR Dataset
 train_path = os.path.join("HAR","UCI HAR Dataset", "train")
 test_path = os.path.join("HAR","UCI HAR Dataset", "test")
+# edit
 
 # Dictionary of activities. Provided by the dataset.
 ACTIVITIES = {
